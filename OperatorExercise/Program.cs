@@ -11,12 +11,12 @@ public class Program
 
         Console.WriteLine($"{a} / {b} is {quotient} remainder {remainder}");
 
-        Console.WriteLine("Please enter the radius of your circle.");
+        Console.WriteLine("What is the radius of your circle?");
         var userInput = Console.ReadLine();
 
         var radius = double.Parse(userInput);
 
-        Console.WriteLine(AreaOfCircle(radius));
+        Console.WriteLine($"The area of a circle with the radius of {userInput} is {AreaOfCircle(radius)}.");
 
     }
 
