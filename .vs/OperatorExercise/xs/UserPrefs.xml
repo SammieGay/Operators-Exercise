@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{F647502B-1277-4CBC-A9B1-2B3BC418031D}|Default">
+  <MonoDevelop.Ide.ItemProperties.OperatorExercise PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OperatorExercise/Program.cs">
+    <Files>
+      <File FileName="OperatorExercise/Program.cs" Line="16" Column="31" />
+      <File FileName="../../Library/Logs/VisualStudio/17.0/Ide.2023-09-21__13-25-17.log" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OperatorExercise" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
