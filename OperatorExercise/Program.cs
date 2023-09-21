@@ -18,6 +18,12 @@ public class Program
 
         Console.WriteLine($"The area of a circle with the radius of {userInput} is {AreaOfCircle(radius)}.");
 
+        var i = 3;
+        var j = 4;
+        var k = ++i * j++;
+
+        Console.WriteLine(k);
+
     }
 
     public static double AreaOfCircle(double radius)
